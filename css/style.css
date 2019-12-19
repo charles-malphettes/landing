@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Roboto&display=swap');
+@import url("components/container.css");
+@import url("components/logo.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/banner2.css");
+@import url("components/carbokit.css");
+@import url("components/partie3.css");
+@import url("components/imging.css");
+@import url("components/ingrédients.css");
+
+
+
+
+
+
+
+body {
+	font-family: 'Lora', sans-serif;
+	font-size: 18px;
+	background-color: rgb(0,0,0);
+	margin: 0px;
+	color: #fbad18;
+}
+
+h1, h2, h3 {
+	font-family: 'roboto';
+	font-weight: bold;
+	color: #fbad18;
+	
+}
+
+a {
+	text-decoration: none;
+	background-color: #fbad18;
+	color: black;
+	font-weight: bold;
+	font-family: 'roboto', sans-serif;
+	border-radius: 5px;
+}
+
+#coffret {
+	margin-left: 580px;
+
+	}

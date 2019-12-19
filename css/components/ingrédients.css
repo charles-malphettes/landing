@@ -1,0 +1,19 @@
+.ingrédients {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 10px;
+	padding-bottom: 20px;
+
+
+	}     
+
+.ingrédients a {
+	margin-left: 0px;
+
+}
+
+.ingrédients h2 {
+	width: 200px;
+}
